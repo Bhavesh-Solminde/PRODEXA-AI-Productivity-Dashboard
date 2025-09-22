@@ -24,7 +24,7 @@
 - 📊 Dashboard with visual productivity reports  
 - 📚 Markdown Notes & Link Bookmarking  
 - 🌙 Light / Dark Mode Toggle  
-- 🔐 Secure Auth with Passport.js  
+- 🔐 Secure Auth with JWT  
 
 ---
 
